@@ -1,0 +1,35 @@
+﻿1/0 ���ᱨ��
+infinity
+
+
+
+错误分类
+已知型错误
+未知型错误
+message
+error_code
+request_url
+
+
+webservice 有状态session
+无状态token
+
+生成令牌
+
+业务逻辑
+1在api接口
+2在model分层
+
+业务分层service
+共同字段、属性
+image
+title
+pudate
+content
+fav_nms
+type 代码
+request_url
+Authorization: Basic token 需要经过加密传递
+
+
+
